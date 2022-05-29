@@ -1,0 +1,6 @@
+name: PChifouu
+version: '${project.version}'
+main: fr.chifouu.pchifouu.PChifouu
+commands:
+  duel:
+    description: Duel commands /duel accept:deny
